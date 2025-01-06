@@ -58,6 +58,35 @@ export const Work = [
         github:"#"
         
     },
-    
-  
+    {
+        id:7,
+        name:"Arslan Estates",
+        description:"Modern ve kullanıcı dostu bir emlak portalı. Kullanıcılar arama yapabilir, ilanları görüntüleyebilir ve filtreleme araçlarıyla en uygun mülkü bulabilir.",
+        tags:["html","java-script","css"],
+        
+        demo:"#",
+        github:"#"
+        
+    },
+    {
+        id:8,
+        name:"Pampas Investment",
+        description:"Gayrimenkul yatırımcıları için özel bir web platformu. Fırsatları ve yatırım analizlerini kullanıcı dostu bir arayüzle sunar.",
+        tags:["html","nodejs","sass"],
+        
+        demo:"#",
+        github:"#"
+        
+    },
+    {
+        id:9,
+        name:"Netflix Clone",
+        description:"Popüler Netflix platformunun bir klonu. Film ve dizi akışı için modern bir arayüz.",
+        tags:["tailwindcss","react","firebase"],
+        
+        demo:"#",
+        github:"#"
+        
+    },
+
 ] 
