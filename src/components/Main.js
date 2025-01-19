@@ -164,7 +164,7 @@ const Main = () => {
             </Contact>
             <BLOG to="#">
                 <motion.h2
-                initial={{s
+                initial={{
                     y:-200,
                     transition: { type:'spring', duration: 1.5, delay:1}
                 }}
